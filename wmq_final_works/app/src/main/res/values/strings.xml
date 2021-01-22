@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">计划监督本</string>
+    <string name="title_home">他人计划</string>
+    <string name="title_dashboard">个人计划</string>
+    <string name="title_notifications">我的</string>
+    <string name="plan_label">标签</string>
+</resources>
